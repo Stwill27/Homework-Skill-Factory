@@ -16,7 +16,7 @@ def random_predict(number: int = 1) -> int:
     """
     count = 0
     lower_bound = 1 #Нижняя граница предполагаемого списка.
-    upper_bound = 101 #Вверхняя граница предполагаемого списка.
+    upper_bound = 101 #Верхняя граница предполагаемого списка.
     
     while True:
         count += 1
