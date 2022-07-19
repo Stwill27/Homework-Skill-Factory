@@ -15,19 +15,21 @@ def random_predict(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
-    lower_bound = 1 #нижняя граница предполагаемого списка
-    upper_bound = 101 #верхняя граница предполагаемого списка
+    lower_bound = 1 #Нижняя граница предполагаемого списка.
+    upper_bound = 101 #Вверхняя граница предполагаемого списка.
     
     while True:
         count += 1
-        predict_number = (upper_bound+lower_bound-1)//2 #предполагаемое число
-        
+        predict_number = (upper_bound+lower_bound-1) // 2 #Предполагаемое число.
         if number == predict_number:
-            break  # выход из цикла если угадали
+            break  # выход из цикла, если угадали.
+        
         elif predict_number > number:
-            upper_bound = predict_number #коррекция верхней границы
+            upper_bound = predict_number #Коррекция верхней границы.
+            
         elif predict_number < number:
-            lower_bound = predict_number + 1 #коррекция нижней границы
+            lower_bound = predict_number + 1 #Коррекция нижней границы.
+            
     return count
 
 
@@ -41,8 +43,7 @@ def score_game(random_predict) -> int:
         int: среднее количество попыток
     """
     count_ls = []
-    random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
-
+    random_array = np.random.randint(1, 101, size=(1000))  #Загадали список чисел.
     for number in random_array:
         count_ls.append(random_predict(number))
 
