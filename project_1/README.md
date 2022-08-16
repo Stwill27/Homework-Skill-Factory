@@ -6,8 +6,8 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Какой-кейс-решаем?)  
-[3. Результаты](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Результаты:)    
+[2. Какой кейс решаем?](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Какой-кейс-решаем)  
+[3. Результаты](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Результаты)    
 
 
 ### Описание проекта    
