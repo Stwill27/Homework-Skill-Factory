@@ -5,9 +5,9 @@
 # Homework 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта]()  
-[2. Какой кейс решаем?]()  
-[3. Результаты]()    
+[1. Описание проекта](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Какой-кейс-решаем?)  
+[3. Результаты](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Результаты:)    
 
 
 ### Описание проекта    
@@ -41,4 +41,4 @@
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/project_1.ipynb)
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Оглавление)
