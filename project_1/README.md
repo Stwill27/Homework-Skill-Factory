@@ -39,6 +39,6 @@
 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами]()
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/project_1.ipynb)
 
 :arrow_up:[к оглавлению]()
