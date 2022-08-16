@@ -1,4 +1,5 @@
 Ссылка на данные о резюме: https://drive.google.com/file/d/1E7vA3NM6cNUb34Q9e8tnI1Z4iALmYvgG/view?usp=sharing
+
 Ссылка на данные о курсах валют: https://drive.google.com/file/d/1VfUlLjZ4HTa4BXnokJ_TBEjhBxb6psQ9/view?usp=sharing
 
 # Homework 1. Анализ базы данных резюме c Head Hunter
