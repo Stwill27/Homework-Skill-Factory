@@ -2,7 +2,7 @@
 
 Ссылка на данные о курсах валют: https://drive.google.com/file/d/1VfUlLjZ4HTa4BXnokJ_TBEjhBxb6psQ9/view?usp=sharing
 
-# Homework 1. Анализ базы данных резюме c Head Hunter
+# Project 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Stwill27/Homework-Skill-Factory/blob/main/project_1/README.md#Описание-проекта)  
